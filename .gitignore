@@ -1,0 +1,6 @@
+# dependencies
+node_modules/
+/node_modules/
+email-day-planner/node_modules/
+.env.local
+.env
